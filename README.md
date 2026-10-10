@@ -35,7 +35,7 @@ What I Learned
 * Preventing default form submission using event.preventDefault()
 * Displaying and hiding a success popup using JavaScript and CSS
 
-link of the project : 
+link of the project : https://ayishasheerin.github.io/Registration-Form/
 
 Note
 
